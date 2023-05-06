@@ -9,8 +9,13 @@
     font-family: "Poppins";
     src: url(fonts/Poppins-ExtraBold.ttf) format("truetype");
 }
+
 * {
     box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
